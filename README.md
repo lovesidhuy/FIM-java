@@ -6,7 +6,7 @@ monitors a specific directory and detects file changes (creation, modification, 
 
 When you start the tool, it follows this route:
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/50575a3b-56de-4726-9321-8e71de4d6396" />
+![image](https://github.com/user-attachments/assets/857c3048-50a5-42a8-bfa3-ea58d02d19e0)
 
 
 Each change is logged to:
