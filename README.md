@@ -1,4 +1,5 @@
-This Java-based tool monitors a specific directory and detects file changes (creation, modification, deletion) in real-time. It tracks changes using SHA-256 hashing and stores known-good values in a persistent `hashes.json` file. Logs are also sent to the system's log service (syslog) and printed to the console.
+A Java-Based File Integrity Monitoring Tool
+monitors a specific directory and detects file changes (creation, modification, deletion) in real-time. It tracks changes using SHA-256 hashing and stores known-good values in a persistent `hashes.json` file. Logs are also sent to the system's log service (syslog) and printed to the console.
 
 ![image](https://github.com/user-attachments/assets/f1ba0a1f-3aea-4650-9d30-bf84e496628b)
 
